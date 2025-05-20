@@ -67,11 +67,6 @@ public class Person {
 	public String toString() {
 		return "Person [adhrno=" + adhrno + ", name=" + name + ", dob=" + dob + ", ad=" + ad + "]";
 	}
-	
-	
-	
-	
-
 }
 
 
